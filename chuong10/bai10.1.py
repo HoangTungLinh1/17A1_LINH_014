@@ -1,0 +1,6 @@
+x=int(input("Nhập một số tự nhiên:"))
+y=int(input("Nhập một số tự nhiên:"))
+GTLN=max(x,y)
+GTNN=min(x,y)
+print("Giá trị lớn nhất là:",GTLN)
+print("Giá trị nhỏ nhất là:",GTNN)
